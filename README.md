@@ -1,2 +1,2 @@
 # Portfolio
- This repository is the code I used to create my developer portfolio. The purpose of this portfolio is to show my previous coding projects and emphasize my coding prowess for future employers.  
+This is my portfolio for my career as a Web Developer/Software Engineer. I hope it looks good to you and don't hesitate to reach out to me with suggestions on how to improve! Thanks for your time :)
